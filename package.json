@@ -1,0 +1,15 @@
+{
+  "name": "js-contest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/sieugene/js-contest.git",
+  "author": "sieugene",
+  "license": "MIT",
+  "scripts": {
+    "start": "yarn tsc && node dist/index.js"
+  },
+  "devDependencies": {
+    "@types/node": "^20.3.1",
+    "typescript": "^5.1.3"
+  }
+}
